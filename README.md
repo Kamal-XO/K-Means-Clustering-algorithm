@@ -99,11 +99,6 @@ print('The clusters group for the Application 9200 and Loan Amount 110  is ',pre
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 ## Output:
