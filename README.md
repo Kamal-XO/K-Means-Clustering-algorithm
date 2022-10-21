@@ -37,6 +37,25 @@ Display kmean.labels_
 Declare a variable predcited_class to kmean.predict([[]]) and give two arguments in it.
 ### Step17:
 Display the predicted_class
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## Program:
 ```
 Developed by: Kamalesh SV
@@ -71,22 +90,6 @@ predicted_cluster=Kmean.predict([[9200,110]])
 print('The clusters group for the Application 9200 and Loan Amount 110  is ',predicted_cluster)
 ```
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
